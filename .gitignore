@@ -1,0 +1,23 @@
+# Keep business files, outputs, runtime logs and private configuration out of Git.
+*.pbix
+*.pbit
+*.pbip
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+*.pdf
+*.log
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.pbipartial
+*.pbibak-*
+*.env
+.env*
+private*/
+output*/
+logs/
+__pycache__/
